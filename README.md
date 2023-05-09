@@ -1,2 +1,2 @@
-# API-Alta-shop
+# WEB-UI-AltaShop
 testing API altashop
